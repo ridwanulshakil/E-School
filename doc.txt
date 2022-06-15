@@ -1,0 +1,53 @@
+notes----
+
+
+e-school project------
+
+fonf-family---
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+poppins
+	400
+	700
+	500
+
+Roboto
+	400
+
+
+color---
+bg #F0FFF0;
+black #000000;
+green #21B573;
+white 
+hover #FD511A;
+
+
+banner------
+xxl-xl-lg                md              sm-col
+  
+padding
+35 / 65					10/60
+
+h1 48
+---------------
+
+feature--------
+
+padding
+xxl-xl-lg                md              sm-col
+
+pb 100					 80					60
+
+s_f mt 40
+
+
+
+layout
+section
+
+semantic
+code comment
+reuse..
+code.rep..avoid
+ui ux
